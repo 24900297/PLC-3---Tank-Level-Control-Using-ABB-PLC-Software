@@ -1,6 +1,6 @@
 # PLC-3---Tank-Level-Control-Using-ABB-PLC-Software
 
-## Aim:
+## Aim
 To control the water level in a tank automatically using an ABB PLC by starting and stopping a pump based on level sensor signals.
 
 ## Apparatus Required
@@ -21,7 +21,7 @@ When the water level falls below the low-level sensor, the PLC starts the pump. 
 <img width="468" height="84" alt="image" src="https://github.com/user-attachments/assets/ba9502eb-ad48-4a96-a0bb-ef322aa55d14" />
 
 
-## Logic:
+## Logic
 If Low Level Sensor is ON, Pump starts.
 Pump remains ON through self-holding.
 When High Level Sensor becomes ON, Pump stops.
